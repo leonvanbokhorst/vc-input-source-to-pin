@@ -4,6 +4,8 @@ Dual transistor based input protection from Eurorack CV to a digital pin on e.g.
 
 ![PCB](images/pcb-v1.0.png)
 
+![PCB](images/pcb-v1.0-back.png)
+
 ## Schematic
 
 ![PCB](images/schematic.png)
